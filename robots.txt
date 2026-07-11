@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://resard.com/sitemap.xml
+Sitemap: https://resard.net/sitemap.xml
